@@ -137,6 +137,12 @@ h1, h2, h3, h4, h5, h6 {
 /**
 * Desktop Navigation 
 */
+.disclaimer-consumi{
+  font-size: 12px;
+  color: rgb(70 104 162 / 74%);
+  position: relative;
+  top:50px;
+}
 .navbar {
   padding: 0;
 }
